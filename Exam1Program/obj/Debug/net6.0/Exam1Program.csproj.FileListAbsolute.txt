@@ -1,0 +1,15 @@
+C:\Users\croth\source\repos\Exam1Program\bin\Debug\net6.0\Exam1Program.exe
+C:\Users\croth\source\repos\Exam1Program\bin\Debug\net6.0\Exam1Program.deps.json
+C:\Users\croth\source\repos\Exam1Program\bin\Debug\net6.0\Exam1Program.runtimeconfig.json
+C:\Users\croth\source\repos\Exam1Program\bin\Debug\net6.0\Exam1Program.dll
+C:\Users\croth\source\repos\Exam1Program\bin\Debug\net6.0\ref\Exam1Program.dll
+C:\Users\croth\source\repos\Exam1Program\bin\Debug\net6.0\Exam1Program.pdb
+C:\Users\croth\source\repos\Exam1Program\obj\Debug\net6.0\Exam1Program.csproj.AssemblyReference.cache
+C:\Users\croth\source\repos\Exam1Program\obj\Debug\net6.0\Exam1Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\croth\source\repos\Exam1Program\obj\Debug\net6.0\Exam1Program.AssemblyInfoInputs.cache
+C:\Users\croth\source\repos\Exam1Program\obj\Debug\net6.0\Exam1Program.AssemblyInfo.cs
+C:\Users\croth\source\repos\Exam1Program\obj\Debug\net6.0\Exam1Program.csproj.CoreCompileInputs.cache
+C:\Users\croth\source\repos\Exam1Program\obj\Debug\net6.0\Exam1Program.dll
+C:\Users\croth\source\repos\Exam1Program\obj\Debug\net6.0\ref\Exam1Program.dll
+C:\Users\croth\source\repos\Exam1Program\obj\Debug\net6.0\Exam1Program.pdb
+C:\Users\croth\source\repos\Exam1Program\obj\Debug\net6.0\Exam1Program.genruntimeconfig.cache
